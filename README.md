@@ -1,3 +1,8 @@
+
+It's much simpler than that.
+Just upload your image to the repository root, and link to the filename without any path, like so:
+
+![Screenshot]("C:\Users\tirth\Desktop\Screenshot 2022-06-16 002918.png")
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
